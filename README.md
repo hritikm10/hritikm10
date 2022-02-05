@@ -115,3 +115,6 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
       src="https://c.tenor.com/iczjaEFdW20AAAAC/spotify-music.gif" alt="spotify" width="650px"
       height="300px" /> </a>
       <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<br>
+<hr>
+<br>
