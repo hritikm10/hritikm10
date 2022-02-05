@@ -111,6 +111,6 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
 <br>
 <hr>
 <h3 align="left">Spotify Playing 🎧</h3>
- <a href="https://open.spotify.com/user/31hg5ke5zgwyhw5cwuk6x5z7rqq4" target="_blank" rel="noreferrer"> <img
+ <a align="left" href="https://open.spotify.com/user/31hg5ke5zgwyhw5cwuk6x5z7rqq4" target="_blank" rel="noreferrer"> <img
       src="https://diymusician.cdbaby.com/wp-content/uploads/2020/11/Spotify-Canvas-in-action.gif" alt="spotify" width="450px"
       height="300px" /> </a>
