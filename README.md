@@ -17,7 +17,7 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
 
 - 📫 How to reach me **hritikmiddha10@gmail.com**
 
-- ⚡ Fun fact :- Food and code are the reasons to live.
+- ⚡ Fun fact :- Songs and Code are the reasons to live.
 
 <br>
 
@@ -118,3 +118,13 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
 <br>
 <hr>
 <br>
+<h2>👀 My github Stats</h2>
+
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritikm10" alt="GitHub Stats" /> <br/><br/>
+    ![My github status](https://github-readme-stats.vercel.app/api?username=hritikm10-hash&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikm10-hash&layout=compact)
+</div>
+
