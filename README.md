@@ -11,7 +11,8 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 <hr>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="450px"
+      height="300px"/></p>
 
 
 - 📫 How to reach me **hritikmiddha10@gmail.com**
