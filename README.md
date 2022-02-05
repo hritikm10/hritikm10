@@ -95,6 +95,15 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
       <a  target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40"
       height="40" /> </a> 
+      <a  target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40"
+      height="40" /> </a> 
+      <a  target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40"
+      height="40" /> </a> 
+      <a  target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"
+      height="40" /> </a> 
       
 
 <br>
