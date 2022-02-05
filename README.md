@@ -83,5 +83,15 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40"
       height="40" /> </a> 
+      <a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="xd" width="40"
+      height="40" /> </a> 
+      <a  target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="40"
+      height="40" /> </a> 
+       <a  target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40"
+      height="40" /> </a> 
+      
 
 <br>
