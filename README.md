@@ -105,5 +105,10 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
       src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"
       height="40" /> </a> 
       
-
 <br>
+<hr>
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31hg5ke5zgwyhw5cwuk6x5z7rqq4)
+
+---
