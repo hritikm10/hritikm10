@@ -128,6 +128,6 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
 
  
 
-![My github status](https://github-readme-stats.vercel.app/api?username=hritikm10-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikm10-hash&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=hritikm10&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikm10&layout=compact)
 
