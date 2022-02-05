@@ -83,8 +83,5 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40"
       height="40" /> </a> 
-      
-  
-      </p>
 
 <br>
