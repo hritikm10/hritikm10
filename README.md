@@ -29,7 +29,6 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
 	<a href="https://www.facebook.com/hritik.middha10/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/hritikarora._"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-<hr/>
 </p>
 
 <br>
