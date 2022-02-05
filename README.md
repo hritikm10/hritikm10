@@ -9,7 +9,7 @@ Working as a Full Stack Developer🗃️ with deep knowledge of JavaScript, HTML
 ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScript, PHP, WordPress, Bug Fixing, UI/UX design are some of my fields of expertise. I am willing to learn and outshine my knowledge📊</h5>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
-</hr>
+<hr>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
