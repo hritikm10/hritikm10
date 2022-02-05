@@ -92,6 +92,9 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
        <a  target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40"
       height="40" /> </a> 
+      <a  target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40"
+      height="40" /> </a> 
       
 
 <br>
