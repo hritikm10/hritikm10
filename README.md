@@ -16,7 +16,7 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
 
 - 📫 How to reach me **hritikmiddha10@gmail.com**
 
-- ⚡ Fun fact :- food and code are the reasons to live.
+- ⚡ Fun fact :- Food and code are the reasons to live.
 
 <br>
 
