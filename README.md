@@ -121,7 +121,6 @@ ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScrip
 <h2>👀 My github Stats</h2>
 
 <div>
-  <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritikm10" alt="GitHub Stats" /> <br/><br/>
 </div>
