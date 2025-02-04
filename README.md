@@ -4,9 +4,9 @@
 </p>
 
 <h5 align="center">A Computer Engineering 💻 student with good programming ⌨️and development💡 experience.
-Working as a Full Stack Developer🗃️ with deep knowledge of JavaScript, HTML, and CSS, and I've worked on a variety of programming projects🧾
+With 2+ years of experience helping businesses grow through creative strategies and smart solutions, I’m ready to bring my passion and expertise to a team that values collaboration and innovation. Let’s connect and create something amazing together !
 
-ReactJs, React Native, MySql, MongoDB, NodeJs, HTML5, CSS3, Bootstrap, JavaScript, PHP, WordPress, Bug Fixing, UI/UX design are some of my fields of expertise. I am willing to learn and outshine my knowledge📊</h5>
+HTML5, CSS3, Bootstrap, JavaScript, PHP, WordPress, ReactJs, MySql, MongoDB, NodeJs, Bug Fixing, UI/UX design, Graphic Design are some of my fields of expertise. I am willing to learn and outshine my knowledge📊</h5>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 <hr>
