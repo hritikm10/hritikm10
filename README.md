@@ -23,11 +23,10 @@ HTML5, CSS3, Bootstrap, JavaScript, PHP, WordPress, ReactJs, MySql, MongoDB, Nod
 
 ## 🙋‍♀️ Let's Connect
 <p>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:hritikmiddha10@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/hritikm10"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hritik-middha10/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/hritik.middha10/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/hritikarora._"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/hritik-middha/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/hrit2.0"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 </p>
 
@@ -108,12 +107,7 @@ HTML5, CSS3, Bootstrap, JavaScript, PHP, WordPress, ReactJs, MySql, MongoDB, Nod
 <br>
 <br>
 <hr>
-<h3 align="left">Spotify Playing 🎧</h3>
- <a align="left" href="https://open.spotify.com/user/31hg5ke5zgwyhw5cwuk6x5z7rqq4" target="_blank" rel="noreferrer"> <img
-      src="https://c.tenor.com/iczjaEFdW20AAAAC/spotify-music.gif" alt="spotify" width="650px"
-      height="300px" /> </a>
-      <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-<br>
+
 <hr>
 <br>
 <h2>👀 My github Stats</h2>
